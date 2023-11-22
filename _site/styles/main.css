@@ -23,7 +23,7 @@ nav ul li a {
   font-size: 24px;
 }
 
-a.selected {
+li.selected a {
   text-decoration: underline;
 }
 
